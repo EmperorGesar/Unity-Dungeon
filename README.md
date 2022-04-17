@@ -4,6 +4,9 @@ A dungeon-like game implementation with Unity for UWO cs4482
 ## Screenshot
 ![Image](https://github.com/EmperorGesar/Unity-Dungeon/blob/master/screenshot.png)
 
+## Demo
+https://emperorgesar.itch.io/unity-dungeon
+
 ## Description
 
 - Kill all monsters in the room to enter the next room
