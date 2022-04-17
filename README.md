@@ -3,6 +3,7 @@ A dungeon-like game implementation with Unity for UWO cs4482
 
 ## Screenshot
 ![Image](https://github.com/EmperorGesar/Unity-Dungeon/blob/master/screenshot.png)
+![Image](https://github.com/EmperorGesar/Unity-Dungeon/blob/master/app3.png)
 
 ## Demo
 https://emperorgesar.itch.io/unity-dungeon
